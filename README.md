@@ -3,6 +3,8 @@ Esta é uma single page responsiva que criei a partir do zero, com pensamento mo
 
 ## Screenshots
 
+![print-mobile-01](https://user-images.githubusercontent.com/44715518/53422793-e4ff0b00-39be-11e9-9712-9f9c9fd30fbf.jpeg)
+
 ![print-mobile-02](https://user-images.githubusercontent.com/44715518/53422455-45417d00-39be-11e9-855a-c7b638d49307.jpeg)
 
 ![print-mobile-03](https://user-images.githubusercontent.com/44715518/53422457-4672aa00-39be-11e9-96bc-71e2dc289eab.jpeg)
